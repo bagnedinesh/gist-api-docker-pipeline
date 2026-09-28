@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <!-- Minimal web SDK project targeting .NET 10 -->
+  <PropertyGroup>
+    <!-- Target framework for the project -->
+    <TargetFramework>net10.0</TargetFramework>
+    <!-- Enable nullable reference types -->
+    <Nullable>enable</Nullable>
+    <!-- Enable implicit global usings for common namespaces -->
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+</Project>
