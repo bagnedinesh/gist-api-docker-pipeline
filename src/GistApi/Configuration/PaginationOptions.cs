@@ -9,7 +9,7 @@ public sealed class PaginationOptions
 
     public int DefaultPage { get; set; } = 1;
 
-    public int DefaultPerPage { get; set; } = 5;
+    public int DefaultPerPage { get; set; } = 2;
 
     public int MaximumPerPage { get; set; } = 100;
 }
